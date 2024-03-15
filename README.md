@@ -5,7 +5,7 @@
 
 <p align="center">A shrimple Discord Font repository for themers who wants to use custom fonts in their themes.</p>
 
-<p align="center">All Fonts will be provided in here along with Gallery section that will showcase each fonts innit in a organised manner.</p>
+<p align="center">All Fonts will be provided in here along with Gallery section that will showcase each fonts in a organised & manner.</p>
 
 <h2 align="center">Gallery (Soon)</h2>
 </p>
