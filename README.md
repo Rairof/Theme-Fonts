@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Rairof/Discord-Theme/blob/main/Icon.png" width="80" />
+    <img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/Icon.png" width="80" />
     <h2 align="center">Fonts for Discord</h2>
 </p>
 
@@ -10,7 +10,12 @@
 <h1 align="center">Gallery</h1>
 <h2 align="left">1) BlowBrush</h2>
 
-![image](https://github.com/Rairof/Theme-Fonts/blob/main/assets/BlowBrush.jpg)![image](https://github.com/Rairof/Theme-Fonts/blob/main/assets/BlowBrush-Font.png)
+<p align="left">
+<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/BlowBrush.jpg" width="400" />
+</p>
+<p align="left">
+<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/BlowBrush-Font.png" width="400" />
+</p>
 
 <h2 align="left">2) GoogleSans</h2>
 
