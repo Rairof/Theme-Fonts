@@ -8,18 +8,18 @@
 <p align="center">All Fonts will be provided in here along with a Gallery section that will showcase each fonts in a neat & organised manner.</p>
 
 <h1 align="center">Gallery</h1>
+
 <h2 align="left">1) BlowBrush</h2>
-
 <p align="left">
-<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/BlowBrush.jpg" width="400" />
-<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/BlowBrush-Font.png" width="400" />
-
+<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/Blowbrush-1.png" width="400" />
+<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/Blowbrush-2.png" width="400" />
+<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/Blowbrush-3.png" width="400" />
+<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/Blowbrush-4.png" width="400" />
+</p>
 <h2 align="left">2) GoogleSans</h2>
 <p align="left">
 <img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-1.png"width="400" />
 <img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-2.png" width="400" />
-</p>
-<p align="left">
 <img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-3.png" width="400" />
 <img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-4.png" width="400" />
 </p>
