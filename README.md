@@ -18,7 +18,7 @@
 </p>
 <h2 align="left">2) GoogleSans</h2>
 <p align="left">
-<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-1.png"width="300" />
+<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-1.png" width="300" />
 <img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-2.png" width="300" />
 <img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-3.png" width="300" />
 <img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-4.png" width="300" />
