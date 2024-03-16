@@ -12,12 +12,14 @@
 
 <p align="left">
 <img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/BlowBrush.jpg" width="400" />
-</p>
-<p align="left">
 <img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/BlowBrush-Font.png" width="400" />
-</p>
 
 <h2 align="left">2) GoogleSans</h2>
-
-![image](https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-1.png)![image](https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-2.png)![image](https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-3.png)![image](https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-4.png)
-
+<p align="left">
+<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-1.png"width="400" />
+<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-2.png" width="400" />
+</p>
+<p align="left">
+<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-3.png" width="400" />
+<img src="https://github.com/Rairof/Theme-Fonts/blob/main/assets/GoogleSans-4.png" width="400" />
+</p>
