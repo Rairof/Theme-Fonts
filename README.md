@@ -11,7 +11,7 @@
 <h2 align="left">1) BlowBrush</h2>
 
 ![image](https://github.com/Rairof/Theme-Fonts/blob/main/assets/BlowBrush.png)
-![image](https://github.com/Rairof/Theme-Fonts/blob/main/assets/BlowBrush-Font.png)
+![image](https://github.com/Rairof/Theme-Fonts/blob/main/assets/BlowBrush-Font.jpg)
 
 <h2 align="left">2) GoogleSans</h2>
 
