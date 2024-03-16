@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Rairof/Discord-Theme/main/122854.png" width="80" />
+    <img src="https://github.com/Rairof/Discord-Theme/blob/main/Icon.png" width="80" />
     <h2 align="center">Fonts for Discord</h2>
 </p>
 
