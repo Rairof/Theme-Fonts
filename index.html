@@ -1,0 +1,141 @@
+<!-- 
+  Angel/Azrae was here :3
+-->
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Revenge's Font Bank</title>
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+		
+		<link rel="icon" href="https://raw.githubusercontent.com/Rairof/Discord-Theme/main/122854.png">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
+
+		<style>
+			body {
+				background-color: var(--body-bg);
+				color: var(--body-color);
+			}
+
+			#item-list {
+				padding: 0;
+			}
+
+			#item-list li {
+				margin-bottom: 5px;
+			}
+
+			#item-list a {  
+				text-decoration: none;            
+				transition: font-weight 0.1s cubic-bezier(.46,.03,.52,.96);
+			}
+
+			#item-list a:hover {
+				font-weight: bold;
+			}
+
+			.container {
+				margin-top: 50px;
+			}
+
+			.btn {
+				margin-bottom: 20px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">                
+	            <div class="col text-center">
+	                <h1>List of Available Fonts <a
+	                	style="color: inherit; text-decoration: none;"
+	                	href="https://github.com/Rairof/Theme-Fonts/" 
+	                	target="_blank"
+	                	>
+	                		<i class="bi bi-github"></i>
+	                	</a>
+	                </h1>
+	            </div>
+	        </div>
+			<button id="theme-toggle" class="btn btn-primary">Toggle Theme</button>
+			<ul id="item-list" class="list-group"></ul>
+		</div>
+
+		
+		<script>
+			// Predefined array of items to exclude from the list
+			const excludedItems = ['readme.md'];
+			const targetRepo = 'https://api.github.com/repos/Rairof/Theme-Fonts/contents';
+
+			function fetchItems(url, parentElement) {
+				fetch(url)
+					.then(response => response.json())
+					.then(data => {
+						data.forEach(item => {
+							if (!excludedItems.includes(item?.name?.toLowerCase?.())) {
+								const listItem = document.createElement('li');
+								listItem.classList.add('list-group-item');
+								
+								const link = document.createElement('a');
+								const downloadLink = document.createElement('a');
+								const viewLink = document.createElement('a');
+
+								if (item.type === 'dir') {
+									const subListName = `sub_${item.name.replace(/\s+/g, '-')}`;
+
+									link.href = '#';
+									link.textContent = item.name;
+									link.onclick = function() {
+										const parent = document.getElementById(subListName);
+										if(parent) {
+											parent.replaceChildren()
+											parent.remove();
+										}
+										else {
+											const newSublist = document.createElement('ul');
+											newSublist.classList.add('list-group');
+											newSublist.id = subListName;
+											listItem.appendChild(newSublist);
+											fetchItems(item.url, newSublist);
+										}
+									};
+									listItem.appendChild(link);
+								} 
+								else {
+									downloadLink.textContent = `Download ${item.name}`;
+									downloadLink.href = item.download_url;
+									downloadLink.target = "_blank";
+									listItem.appendChild(downloadLink);
+
+									viewLink.textContent = ` | View ${item.name}`;
+									viewLink.href = item.html_url;
+									viewLink.target = "_blank";
+									listItem.appendChild(viewLink);
+								}
+								parentElement.appendChild(listItem);
+							}
+						});
+					})
+					.catch(error => console.error('Error fetching data:', error));
+			}
+
+			// Initial fetch
+			fetchItems(targetRepo, document.getElementById('item-list'));
+
+			const themeToggle = document.getElementById('theme-toggle');
+			let isDarkMode = false;
+			themeToggle.addEventListener('click', () => {
+				const body = document.body;
+				if (isDarkMode) {
+					body.style.setProperty('--body-bg', '#ffffff');
+					body.style.setProperty('--body-color', '#000000');
+				} else {
+					body.style.setProperty('--body-bg', '#1e2124');
+					body.style.setProperty('--body-color', '#ffffff');
+				}
+				isDarkMode = !isDarkMode;
+			});
+		</script>
+	</body>
+</html>
