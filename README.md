@@ -29,9 +29,6 @@
 <img src="./assets/Blowbrush-4.png" width="300" />
 </p>
 
->[!NOTE]
->BlowBrush font doesn't seem to have a family tree like other fonts hence all theme makers are advised to use the given theme file for all types of fonts in their themes, let me know if you find any family tree for this font.
-
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/BlowBrush/BlowBrush-font-snippet)
 ## Font sourced from [here.](https://www.dafont.com/blowbrush.font)
 <h2 align="left">2) GoogleSans</h2>
@@ -75,3 +72,5 @@
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Meloso/Meloso-font-snippet)
 
 ## Font sourced from [here.](https://www.ios-repo-updates.com/repository/alo-s-repo/package/works.alo.fonts.meloso80/)
+>[!NOTE]
+>BlowBrush, Evolve Sans & Witcher Handwriting fonts doesn't seem to have a family tree like other fonts so I renamed the orginal regular font file into others to make them work, all theme makers are advised to just use the given theme files for all types of fonts in their themes accordingly, let me know if you find any family tree for these fonts.
