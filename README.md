@@ -30,7 +30,10 @@
 </p>
 
 >[!NOTE]
->BlowBrush font doesn't seem to have a family tree like other fonts hence all theme makers are advised to use the given theme file for all types of fonts in their themes, let me know if you find any family tree for this font. Font sourced from [here.](https://www.dafont.com/blowbrush.font)
+>BlowBrush font doesn't seem to have a family tree like other fonts hence all theme makers are advised to use the given theme file for all types of fonts in their themes, let me know if you find any family tree for this font.
+
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/BlowBrush/BlowBrush-font-snippet)
+## Font sourced from [here.](https://www.dafont.com/blowbrush.font)
 <h2 align="left">2) GoogleSans</h2>
 <p align="left">
 <img src="./assets/GoogleSans-1.png" width="300" />
