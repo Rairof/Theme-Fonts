@@ -58,6 +58,7 @@
 <img src="./assets/Witcher_Handwriting-4.png" width="300" />
 </p>
 
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Witcher-Handwriting/Witcher-Handwriting-font-snippet)
 ## Font sourced from [here.](https://www.fontspace.com/witcher-handwriting-font-f50757)
 <h2 align="left">4) Meloso</h2>
 <p align="left">
