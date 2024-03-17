@@ -29,7 +29,8 @@
 <img src="./assets/Blowbrush-4.png" width="300" />
 </p>
 
-## Note- BlowBrush font doesn't seem to have a family tree like other fonts hence all theme makers are advised to use the given theme file for all types of fonts in their themes, let me know if you find any family tree for this font. Font sourced from [here.](https://www.dafont.com/blowbrush.font)
+>[!NOTE]
+>BlowBrush font doesn't seem to have a family tree like other fonts hence all theme makers are advised to use the given theme file for all types of fonts in their themes, let me know if you find any family tree for this font. Font sourced from [here.](https://www.dafont.com/blowbrush.font)
 <h2 align="left">2) GoogleSans</h2>
 <p align="left">
 <img src="./assets/GoogleSans-1.png" width="300" />
