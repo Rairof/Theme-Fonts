@@ -31,7 +31,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/BlowBrush/BlowBrush-font-snippet)
 ## Font sourced from [here.](https://www.dafont.com/blowbrush.font)
-<h2 align="left">2) GoogleSans</h2>
+<h2 align="left">2. GoogleSans</h2>
 <p align="left">
 <img src="./assets/GoogleSans-1.png" width="300" />
 <img src="./assets/GoogleSans-2.png" width="300" />
@@ -41,7 +41,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/GoogleSans/GoogleSans-Font-snippet)
 ## Font sourced from [here.](https://github.com/hprobotic/Google-Sans-Font/tree/master)
-<h2 align="left">3) Evolve Sans EVO</h2>
+<h2 align="left">3. Evolve Sans EVO</h2>
 <p align="left">
 <img src="./assets/Evolve_Sans_EVO-1.png" width="300"/>
 <img src="./assets/Evolve_Sans_EVO-2.png" width="300"/>
@@ -51,7 +51,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Evolve-Sans-EVO/Evolve-Sans-EVO-font-snippet)
 ## Font sourced from [here.](https://www.dafont.com/made-evolve-sans.font)
-<h2 align="left">4) Witcher Handwriting</h2>
+<h2 align="left">4. Witcher Handwriting</h2>
 <p align="left">
 <img src="./assets/Witcher_Handwriting-1.png" width="300" />
 <img src="./assets/Witcher_Handwriting-2.png" width="300" />
@@ -61,7 +61,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Witcher-Handwriting/Witcher-Handwriting-font-snippet)
 ## Font sourced from [here.](https://www.fontspace.com/witcher-handwriting-font-f50757)
-<h2 align="left">4) Meloso</h2>
+<h2 align="left">5. Meloso</h2>
 <p align="left">
 <img src="./assets/Meloso-1.png" width="300" />
 <img src="./assets/Meloso-2.png" width="300" />
@@ -70,7 +70,16 @@
 </p>
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Meloso/Meloso-font-snippet)
-
 ## Font sourced from [here.](https://www.ios-repo-updates.com/repository/alo-s-repo/package/works.alo.fonts.meloso80/)
+<h2 align="left">6. Inter</h2>
+<p align="left">
+<img src="./assets/Inter-1.png" width="300" />
+<img src="./assets/Inter-2.png" width="300" />
+<img src="./assets/Inter-3.png" width="300" />
+<img src="./assets/Inter-4.png" width="300" />
+</p>
+
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Inter/Inter-font-snippet)
+## Font sourced from [here.](https://fonts.google.com/specimen/Inter?category=Monospace&icon.set=Material+Symbols&query=inter)
 >[!NOTE]
 >BlowBrush, Evolve Sans & Witcher Handwriting fonts doesn't seem to have a family tree like other fonts so I renamed the orginal regular font file into others to make them work, all theme makers are advised to just use the given theme files for all types of fonts in their themes accordingly, let me know if you find any family tree for these fonts.
