@@ -22,7 +22,7 @@
 >## Method 2-
 >### Just copy & paste the code snippet provided at the end of each theme pictures in Gallery section into your `.json` in the same position as `Method 1`states i.e at the end of your [rawcolour strings](https://docs.riichi.tech/objects/raw-colors).
 
-># Usage-
+># Usage- Most string usage are listen in [here.](https://github.com/Rairof/Theme-Fonts/tree/main/assets/Font-string-usage)
 ---
 <h1 align="center">Gallery</h1>
 <h2 align="left">1. BlowBrush</h2>
