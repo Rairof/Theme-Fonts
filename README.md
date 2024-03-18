@@ -94,7 +94,8 @@
 >## Method 2-
 >### Just copy & paste the code snippet provided at the end of each theme pictures in Gallery section into your `.json` in the same position as `Method 1`states i.e at the end of your [rawcolour strings](https://docs.riichi.tech/objects/raw-colors).
 
-># Usage- Most string usage are listen in [here.](https://github.com/Rairof/Theme-Fonts/tree/main/assets/Font-string-usage)
+>## Usage-
+>### Most of the string's usage are listed in [here.](https://github.com/Rairof/Theme-Fonts/tree/main/assets/Font-string-usage)
 ---
 >[!NOTE]
 >BlowBrush, Evolve Sans & Witcher Handwriting fonts doesn't seem to have a family tree like other fonts so I renamed the orginal regular font file into others to make them work, all theme makers are advised to just use the given theme files for all types of fonts in their themes accordingly, let me know if you find any family tree for these fonts.
