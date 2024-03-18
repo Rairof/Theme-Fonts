@@ -83,7 +83,7 @@
 
 >## Please refer to [this guide](https://docs.riichi.tech/objects/raw-colors) how on to make a theme for mobile discord, currrently [Bunny](https://github.com/pyoncord/Bunny), [Revenge](https://github.com/revenge-mod) & [Vendetta (EOL)](https://github.com/vendetta-mod) supports theming. More discord client mod support will be added Meloso in future when they releases...
 ## Prerequisites:
->## You need to have a `.json` file for your themes to work on mobile discord `(this method dosent work on PC/web discord)`. Open the `.json` file in your preferred editor, I use windows notepad, you can use notepad too if you are not sure what to use.
+>## You need to have a `.json` file for your themes to work on mobile discord `(this method doesn't work on PC/web discord)`. Open the `.json` file in your preferred editor, I use windows notepad, you can use notepad too if you are not sure what to use.
 # Adding font code snippet into your `.json` file: 
 >## Method 1- 
 >## Just copy/paste the [code snippet](https://github.com/Rairof/Theme-Fonts/blob/main/assets/Code-snippet) provided in this repository into your `.json` file at the end of your [rawcolour strings](https://docs.riichi.tech/objects/raw-colors) i.e, just below these highlighted strings-
