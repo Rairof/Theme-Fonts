@@ -81,7 +81,7 @@
 # Implementation-
 ## Implementing fonts in a discord theme for mobile is pretty easy and straightforward, here is how to do it:
 
->## Please refer to [this guide](https://docs.riichi.tech/objects/raw-colors) how on to make a theme for mobile discord, currrently [Bunny](https://github.com/pyoncord/Bunny), [Revenge](https://github.com/revenge-mod) & [Vendetta (EOL)](https://github.com/vendetta-mod) supports theming. More discord client mod support will be added Meloso in future when they releases...
+>## Please refer to [this guide](https://docs.riichi.tech/objects/raw-colors) on how to make a theme for mobile discord, currrently [Bunny](https://github.com/pyoncord/Bunny), [Revenge](https://github.com/revenge-mod) & [Vendetta (EOL)](https://github.com/vendetta-mod) supports theming. More discord client mod support will be added Meloso in future when they releases...
 ## Prerequisites:
 >## You need to have a `.json` file for your themes to work on mobile discord `(this method doesn't work on PC/web discord)`. Open the `.json` file in your preferred editor, I use windows notepad, you can use notepad too if you are not sure what to use.
 # Adding font code snippet into your `.json` file: 
