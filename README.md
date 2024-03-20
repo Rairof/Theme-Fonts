@@ -92,7 +92,7 @@
 >## NOTE-
 >### Please ensure correct font names are replaced along with the link directory to said font files in the repository for the fonts to work, otherwise yout theme will cause unwanted crashes.
 >## Method 2-
->### Just copy & paste the code snippet provided at the end of each theme pictures in Gallery section into your `.json` in the same position as `Method 1`states i.e at the end of your [rawcolour strings](https://docs.riichi.tech/objects/raw-colors).
+>### Just copy & paste the code snippet provided at the end of each theme pictures in Gallery section into your `.json` in the same position as `Method 1` i.e at the end of your [rawcolour strings](https://docs.riichi.tech/objects/raw-colors).
 
 >## Usage-
 >### Most of the string's usage are listed in [here.](https://github.com/Rairof/Theme-Fonts/tree/main/assets/Font-string-usage)
