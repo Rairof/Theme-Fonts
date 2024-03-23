@@ -85,7 +85,7 @@
 <img src="./assets/Golos-Text-4.png" width="300" />
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Golos-Text/Golos-Text-font-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Golos_Text/Golos-Text-code-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Golos+Text?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn)
 <h2 align="left">9. Gantari</h2>
 <p align="left">
@@ -109,4 +109,4 @@
 ## Font sourced from [here.](https://fonts.google.com/specimen/Almarai?icon.set=Material+Symbols&category=Sans+Serif)
 # Implementation of said fonts are described in [here.](https://github.com/Rairof/Theme-Fonts/blob/main/assets/Implementation.md)
 >[!NOTE]
->BlowBrush, Evolve Sans & Witcher Handwriting fonts doesn't seem to have a family tree like other fonts so I renamed the orginal regular font file into others to make them work, all theme makers are advised to just use the given theme files for all types of fonts in their themes accordingly, let me know if you find any family tree for these fonts.
+>BlowBrush, Evolve Sans, Almarai & Witcher Handwriting fonts doesn't seem to have a family tree like other fonts so I renamed the orginal regular font file into others to make them work, all theme makers are advised to just use the given theme files for all types of fonts in their themes accordingly, let me know if you find any family tree for these fonts.
