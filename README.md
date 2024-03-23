@@ -107,6 +107,16 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Gantari-Font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Almarai?icon.set=Material+Symbols&category=Sans+Serif)
+<h2 align="left">11. JetBrainsMono</h2>
+<p align="left">
+<img src="./assets/JetBrainsMono-1.png" width="300" />
+<img src="./assets/JetBrainsMono-2.png" width="300" />
+<img src="./assets/JetBrainsMono-3.png" width="300" />
+<img src="./assets/JetBrainsMono-4.png" width="300" />
+</p>
+
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/JetBrainsMono/JetBrainsMono-Font-snippet)
+## Font sourced from [here.](https://fonts.google.com/specimen/JetBrains+Mono?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&query=Jetbrains+mono)
 # Implementation of said fonts are described in [here.](https://github.com/Rairof/Theme-Fonts/blob/main/assets/Implementation.md)
 >[!NOTE]
 >BlowBrush, Evolve Sans, Almarai & Witcher Handwriting fonts doesn't seem to have a family tree like other fonts so I renamed the orginal regular font file into others to make them work, all theme makers are advised to just use the given theme files for all types of fonts in their themes accordingly, let me know if you find any family tree for these fonts.
