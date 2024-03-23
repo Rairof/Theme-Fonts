@@ -79,10 +79,10 @@
 ## Font sourced from [here.](https://fonts.google.com/specimen/Instrument+Sans?query=sans&subset=latin&noto.script=Latn)
 <h2 align="left">8. Golos Text</h2>
 <p align="left">
-<img src="./assets/Golos_Text-1.png" width="300" />
-<img src="./assets/Golos_Text-2.png" width="300" />
-<img src="./assets/Golos_Text-3.png" width="300" />
-<img src="./assets/Golos_Text-4.png" width="300" />
+<img src="./assets/Golos-Text-1.png" width="300" />
+<img src="./assets/Golos-Text-2.png" width="300" />
+<img src="./assets/Golos-Text-3.png" width="300" />
+<img src="./assets/Golos-Text-4.png" width="300" />
 </p>
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Golos_Text/Golos-Text-code-snippet)
