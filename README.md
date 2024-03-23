@@ -97,6 +97,16 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Gantari-Font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Gantari?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&stroke=Sans+Serif)
+<h2 align="left">10. Almarai</h2>
+<p align="left">
+<img src="./assets/Almarai-1.png" width="300" />
+<img src="./assets/Almarai-2.png" width="300" />
+<img src="./assets/Almarai-3.png" width="300" />
+<img src="./assets/Almarai-4.png" width="300" />
+</p>
+
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Almarai-Font-snippet)
+## Font sourced from [here.](https://fonts.google.com/specimen/Almarai?icon.set=Material+Symbols&category=Sans+Serif)
 # Implementation-
 ## Implementing fonts in a discord theme for mobile is pretty easy and straightforward, here is how to do it:
 
