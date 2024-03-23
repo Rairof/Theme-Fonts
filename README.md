@@ -107,7 +107,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Gantari-Font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Almarai?icon.set=Material+Symbols&category=Sans+Serif)
-<h2 align="left">11. JetBrainsMono</h2>
+<h2 align="left">11. JetBrains Mono</h2>
 <p align="left">
 <img src="./assets/JetBrainsMono-1.png" width="300" />
 <img src="./assets/JetBrainsMono-2.png" width="300" />
