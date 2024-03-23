@@ -6,7 +6,7 @@
 # Adding font code snippet into your `.json` file: 
 >## Method 1- 
 >## Just copy/paste the [code snippet](https://github.com/Rairof/Theme-Fonts/blob/main/assets/Code-snippet) provided in this repository into your `.json` file at the end of your [rawcolour strings](https://docs.riichi.tech/objects/raw-colors) i.e, just below these highlighted strings-
->![these strings](./assets/rawcolours.png)
+>![these strings](./rawcolours.png)
 >### Then, replace the `Font-Name` within all the links provided in the snippet with the font you want from the repository and save changes.
 >## NOTE-
 >### Please ensure correct font names are replaced along with the link directory to said font files in the repository for the fonts to work, otherwise yout theme will cause unwanted crashes.
