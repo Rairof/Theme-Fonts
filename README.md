@@ -85,8 +85,18 @@
 <img src="./assets/Golos-Text-4.png" width="300" />
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Golos-Text/Golos-Text-font-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Golos_Text/Golos-Text-code-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Golos+Text?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn)
+<h2 align="left">9. Gantari</h2>
+<p align="left">
+<img src="./assets/Gantari-1.png" width="300" />
+<img src="./assets/Gantari-2.png" width="300" />
+<img src="./assets/Gantari-3.png" width="300" />
+<img src="./assets/Gantari-4.png" width="300" />
+</p>
+
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Gantari-code-snippet)
+## Font sourced from [here.](https://fonts.google.com/specimen/Gantari?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&stroke=Sans+Serif)
 # Implementation-
 ## Implementing fonts in a discord theme for mobile is pretty easy and straightforward, here is how to do it:
 
