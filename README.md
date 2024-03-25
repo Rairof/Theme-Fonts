@@ -120,7 +120,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/JetBrainsMono/JetBrainsMono-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/JetBrains+Mono?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&query=Jetbrains+mono)
-<h2 align="left">12. Fira-Code</h2>
+<h2 align="left">12. Fira Code</h2>
 <p align="left">
 <img src="./assets/Fira-Code-1.png" width="300"/>
 <img src="./assets/Fira-Code-2.png" width="300"/>
