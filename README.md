@@ -130,7 +130,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Fira-Code/Fira-Code-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Fira+Code?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&classification=Monospace)
-<h2 align="left">14. Source Code Pro</h2>
+<h2 align="left">13. Source Code Pro</h2>
 <p align="left">
 <img src="./assets/Source-Code-Pro-1.png" width="300"/>
 <img src="./assets/Source-Code-Pro-2.png" width="300"/>
@@ -140,7 +140,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Source-Code-Pro/Source-Code-Pro-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Source+Code+Pro?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&classification=Monospace&query=Source+code+pro)
-<h2 align="left">13. Witcher Handwriting</h2>
+<h2 align="left">14. Witcher Handwriting</h2>
 <p align="left">
 <img src="./assets/Witcher_Handwriting-1.png" width="300"/>
 <img src="./assets/Witcher_Handwriting-2.png" width="300"/>
@@ -150,7 +150,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Witcher-Handwriting/Witcher-Handwriting-font-snippet)
 ## Font sourced from [here.](https://www.fontspace.com/witcher-handwriting-font-f50757)
-<h2 align="left">14. BlowBrush</h2>
+<h2 align="left">15. BlowBrush</h2>
 <p align="left">
 <img src="./assets/Blowbrush-1.png" width="300"/>
 <img src="./assets/Blowbrush-2.png" width="300"/>
