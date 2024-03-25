@@ -16,7 +16,7 @@
 <img src="./assets/GoogleSans-4.png" width="300"/>
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/GoogleSans/GoogleSans-Font-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/GoogleSans/GoogleSans-font-snippet)
 ## Font sourced from [here.](https://github.com/hprobotic/Google-Sans-Font/tree/master)
 <h2 align="left">2. Evolve Sans EVO</h2>
 <p align="left">
@@ -88,7 +88,7 @@
 <img src="./assets/Golos-Text-4.png" width="300"/>
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Golos_Text/Golos-Text-code-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Golos_Text/Golos-Text-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Golos+Text?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn)
 <h2 align="left">9. Gantari</h2>
 <p align="left">
@@ -98,7 +98,7 @@
 <img src="./assets/Gantari-4.png" width="300"/>
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Gantari-Font-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Gantari-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Gantari?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&stroke=Sans+Serif)
 <h2 align="left">10. Almarai</h2>
 <p align="left">
@@ -108,7 +108,7 @@
 <img src="./assets/Almarai-4.png" width="300"/>
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Gantari-Font-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Almarai/Almarai-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Almarai?icon.set=Material+Symbols&category=Sans+Serif)
 <h2 align="left">11. JetBrains Mono</h2>
 <p align="left">
@@ -118,9 +118,19 @@
 <img src="./assets/JetBrainsMono-4.png" width="300"/>
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/JetBrainsMono/JetBrainsMono-Font-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/JetBrainsMono/JetBrainsMono-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/JetBrains+Mono?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&query=Jetbrains+mono)
-<h2 align="left">12. Witcher Handwriting</h2>
+<h2 align="left">12. Fira-Code</h2>
+<p align="left">
+<img src="./assets/Fira-Code-1.png" width="300"/>
+<img src="./assets/Fira-Code-2.png" width="300"/>
+<img src="./assets/Fira-Code-3.png" width="300"/>
+<img src="./assets/Fira-Code-4.png" width="300"/>
+</p>
+
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Fira-Code/Fira-Code-font-snippet)
+## Font sourced from [here.](https://fonts.google.com/specimen/Fira+Code?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&classification=Monospace)
+<h2 align="left">13. Witcher Handwriting</h2>
 <p align="left">
 <img src="./assets/Witcher_Handwriting-1.png" width="300"/>
 <img src="./assets/Witcher_Handwriting-2.png" width="300"/>
@@ -130,7 +140,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Witcher-Handwriting/Witcher-Handwriting-font-snippet)
 ## Font sourced from [here.](https://www.fontspace.com/witcher-handwriting-font-f50757)
-<h2 align="left">13. BlowBrush</h2>
+<h2 align="left">14. BlowBrush</h2>
 <p align="left">
 <img src="./assets/Blowbrush-1.png" width="300"/>
 <img src="./assets/Blowbrush-2.png" width="300"/>
