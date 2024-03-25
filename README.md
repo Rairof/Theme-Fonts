@@ -140,7 +140,17 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Source-Code-Pro/Source-Code-Pro-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Source+Code+Pro?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&classification=Monospace&query=Source+code+pro)
-<h2 align="left">14. Witcher Handwriting</h2>
+<h2 align="left">14. Ubuntu Mono</h2>
+<p align="left">
+<img src="./assets/Ubuntu-Mono-1.png" width="300"/>
+<img src="./assets/Ubuntu-Mono-2.png" width="300"/>
+<img src="./assets/Ubuntu-Mono-3.png" width="300"/>
+<img src="./assets/Ubuntu-Mono-4.png" width="300"/>
+</p>
+
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Ubuntu-Mono/Ubuntu-Mono-font-snippet)
+## Font sourced from [here.](https://fonts.google.com/specimen/Ubuntu+Mono?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&classification=Monospace&query=ubuntu+mono)
+<h2 align="left">15. Witcher Handwriting</h2>
 <p align="left">
 <img src="./assets/Witcher_Handwriting-1.png" width="300"/>
 <img src="./assets/Witcher_Handwriting-2.png" width="300"/>
@@ -150,7 +160,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Witcher-Handwriting/Witcher-Handwriting-font-snippet)
 ## Font sourced from [here.](https://www.fontspace.com/witcher-handwriting-font-f50757)
-<h2 align="left">15. BlowBrush</h2>
+<h2 align="left">16. BlowBrush</h2>
 <p align="left">
 <img src="./assets/Blowbrush-1.png" width="300"/>
 <img src="./assets/Blowbrush-2.png" width="300"/>
