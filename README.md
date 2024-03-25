@@ -48,7 +48,17 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/InstrumentSans/InstrumentSans-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Instrument+Sans?query=sans&subset=latin&noto.script=Latn)
-<h2 align="left">5. Inter</h2>
+<h2 align="left">5. San Francisco Pro Display</h2>
+<p align="left">
+<img src="./assets/SF-Pro-Display-1.png" width="300"/>
+<img src="./assets/SF-Pro-Display-2.png" width="300"/>
+<img src="./assets/SF-Pro-Display-3.png" width="300"/>
+<img src="./assets/SF-Pro-Display-4.png" width="300"/>
+</p>
+
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/SF-Pro-Display/SF-Pro-Display-font-snippet)
+## Font sourced from [here.](https://online-fonts.com/fonts/san-francisco-pro-display)
+<h2 align="left">6. Inter</h2>
 <p align="left">
 <img src="./assets/Inter-1.png" width="300"/>
 <img src="./assets/Inter-2.png" width="300"/>
@@ -58,7 +68,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Inter/Inter-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Inter?category=Monospace&icon.set=Material+Symbols&query=inter)
-<h2 align="left">6. Space Mono</h2>
+<h2 align="left">7. Space Mono</h2>
 <p align="left">
 <img src="./assets/Space-Mono-1.png" width="300"/>
 <img src="./assets/Space-Mono-2.png" width="300"/>
@@ -68,7 +78,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Space-Mono/Space-Mono-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Space+Mono?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&query=Space+mono)
-<h2 align="left">7. Golos Text</h2>
+<h2 align="left">8. Golos Text</h2>
 <p align="left">
 <img src="./assets/Golos-Text-1.png" width="300"/>
 <img src="./assets/Golos-Text-2.png" width="300"/>
@@ -78,7 +88,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Golos_Text/Golos-Text-code-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Golos+Text?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn)
-<h2 align="left">8. Gantari</h2>
+<h2 align="left">9. Gantari</h2>
 <p align="left">
 <img src="./assets/Gantari-1.png" width="300"/>
 <img src="./assets/Gantari-2.png" width="300"/>
@@ -88,7 +98,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Gantari-Font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Gantari?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&stroke=Sans+Serif)
-<h2 align="left">9. Almarai</h2>
+<h2 align="left">10. Almarai</h2>
 <p align="left">
 <img src="./assets/Almarai-1.png" width="300"/>
 <img src="./assets/Almarai-2.png" width="300"/>
@@ -98,7 +108,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Gantari-Font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Almarai?icon.set=Material+Symbols&category=Sans+Serif)
-<h2 align="left">10. JetBrains Mono</h2>
+<h2 align="left">11. JetBrains Mono</h2>
 <p align="left">
 <img src="./assets/JetBrainsMono-1.png" width="300"/>
 <img src="./assets/JetBrainsMono-2.png" width="300"/>
@@ -108,7 +118,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/JetBrainsMono/JetBrainsMono-Font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/JetBrains+Mono?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&query=Jetbrains+mono)
-<h2 align="left">11. Witcher Handwriting</h2>
+<h2 align="left">12. Witcher Handwriting</h2>
 <p align="left">
 <img src="./assets/Witcher_Handwriting-1.png" width="300"/>
 <img src="./assets/Witcher_Handwriting-2.png" width="300"/>
@@ -118,7 +128,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Witcher-Handwriting/Witcher-Handwriting-font-snippet)
 ## Font sourced from [here.](https://www.fontspace.com/witcher-handwriting-font-f50757)
-<h2 align="left">12. BlowBrush</h2>
+<h2 align="left">13. BlowBrush</h2>
 <p align="left">
 <img src="./assets/Blowbrush-1.png" width="300"/>
 <img src="./assets/Blowbrush-2.png" width="300"/>
