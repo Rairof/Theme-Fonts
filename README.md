@@ -48,7 +48,9 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/InstrumentSans/InstrumentSans-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Instrument+Sans?query=sans&subset=latin&noto.script=Latn)
-<h2 align="left">5. San Francisco Pro Display (Uses ".otf" instead of ".ttf")</h2>
+<h2 align="left">5. San Francisco Pro Display</h2>
+
+## (Uses `.otf` instead of `.ttf` files)
 <p align="left">
 <img src="./assets/SF-Pro-Display-1.png" width="300"/>
 <img src="./assets/SF-Pro-Display-2.png" width="300"/>
