@@ -38,17 +38,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Meloso/Meloso-font-snippet)
 ## Font sourced from [here.](https://www.ios-repo-updates.com/repository/alo-s-repo/package/works.alo.fonts.meloso80/)
-<h2 align="left">4. BlowBrush</h2>
-<p align="left">
-<img src="./assets/Blowbrush-1.png" width="300"/>
-<img src="./assets/Blowbrush-2.png" width="300"/>
-<img src="./assets/Blowbrush-3.png" width="300"/>
-<img src="./assets/Blowbrush-4.png" width="300"/>
-</p>
-
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/BlowBrush/BlowBrush-font-snippet)
-## Font sourced from [here.](https://www.dafont.com/blowbrush.font)
-<h2 align="left">5. InstrumentSans</h2>
+<h2 align="left">4. InstrumentSans</h2>
 <p align="left">
 <img src="./assets/InstrumentSans-1.png" width="300"/>
 <img src="./assets/InstrumentSans-2.png" width="300"/>
@@ -58,7 +48,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/InstrumentSans/InstrumentSans-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Instrument+Sans?query=sans&subset=latin&noto.script=Latn)
-<h2 align="left">6. Inter</h2>
+<h2 align="left">5. Inter</h2>
 <p align="left">
 <img src="./assets/Inter-1.png" width="300"/>
 <img src="./assets/Inter-2.png" width="300"/>
@@ -68,7 +58,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Inter/Inter-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Inter?category=Monospace&icon.set=Material+Symbols&query=inter)
-<h2 align="left">7. Golos Text</h2>
+<h2 align="left">6. Golos Text</h2>
 <p align="left">
 <img src="./assets/Golos-Text-1.png" width="300"/>
 <img src="./assets/Golos-Text-2.png" width="300"/>
@@ -78,7 +68,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Golos_Text/Golos-Text-code-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Golos+Text?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn)
-<h2 align="left">8. Gantari</h2>
+<h2 align="left">7. Gantari</h2>
 <p align="left">
 <img src="./assets/Gantari-1.png" width="300"/>
 <img src="./assets/Gantari-2.png" width="300"/>
@@ -88,7 +78,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Gantari-Font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Gantari?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&stroke=Sans+Serif)
-<h2 align="left">9. Almarai</h2>
+<h2 align="left">8. Almarai</h2>
 <p align="left">
 <img src="./assets/Almarai-1.png" width="300"/>
 <img src="./assets/Almarai-2.png" width="300"/>
@@ -98,7 +88,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Gantari/Gantari-Font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Almarai?icon.set=Material+Symbols&category=Sans+Serif)
-<h2 align="left">10. JetBrains Mono</h2>
+<h2 align="left">9. JetBrains Mono</h2>
 <p align="left">
 <img src="./assets/JetBrainsMono-1.png" width="300"/>
 <img src="./assets/JetBrainsMono-2.png" width="300"/>
@@ -108,7 +98,7 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/JetBrainsMono/JetBrainsMono-Font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/JetBrains+Mono?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&query=Jetbrains+mono)
-<h2 align="left">11. Witcher Handwriting</h2>
+<h2 align="left">10. Witcher Handwriting</h2>
 <p align="left">
 <img src="./assets/Witcher_Handwriting-1.png" width="300"/>
 <img src="./assets/Witcher_Handwriting-2.png" width="300"/>
@@ -118,4 +108,14 @@
 
 # [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Witcher-Handwriting/Witcher-Handwriting-font-snippet)
 ## Font sourced from [here.](https://www.fontspace.com/witcher-handwriting-font-f50757)
+<h2 align="left">11. BlowBrush</h2>
+<p align="left">
+<img src="./assets/Blowbrush-1.png" width="300"/>
+<img src="./assets/Blowbrush-2.png" width="300"/>
+<img src="./assets/Blowbrush-3.png" width="300"/>
+<img src="./assets/Blowbrush-4.png" width="300"/>
+</p>
+
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/BlowBrush/BlowBrush-font-snippet)
+## Font sourced from [here.](https://www.dafont.com/blowbrush.font)
 # Implementation of said fonts are described in [here.](https://github.com/Rairof/Theme-Fonts/blob/main/assets/Implementation.md)
