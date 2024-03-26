@@ -88,7 +88,7 @@
 <img src="./assets/Golos-Text-4.png" width="300"/>
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Golos_Text/Golos-Text-font-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Golos-Text/Golos-Text-font-snippet)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Golos+Text?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn)
 <h2 align="left">9. Gantari</h2>
 <p align="left">
