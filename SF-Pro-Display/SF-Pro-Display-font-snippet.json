@@ -1,4 +1,8 @@
-"fonts":{
+{
+  "spec": 1,
+  "name": "SF Pro DIsplay",
+  "previewText": "San Francisco (SF) is the CarPlay system typeface. Use SF Pro Text for text 19 points or smaller, and SF Pro Display for text 20 points or larger",
+  "main": {
   "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Bold.otf?raw=1",
   "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Bold.otf?raw=1",
   "ggsans-BoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-BoldItalic.otf?raw=1",
@@ -18,3 +22,4 @@
   "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Medium.otf?raw=1",
   "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Medium.otf?raw=1"
     },
+  }

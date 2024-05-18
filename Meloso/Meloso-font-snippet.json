@@ -1,4 +1,8 @@
-"fonts":{
+{
+  "spec": 1,
+  "name": "Meloso",
+  "previewText": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm",
+  "main": {
   "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Bold.ttf?raw=1",
   "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Bold.ttf?raw=1",
   "ggsans-BoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-BoldItalic.ttf?raw=1",
@@ -17,4 +21,5 @@
   "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Regular.ttf?raw=1",
   "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Medium.ttf?raw=1",
   "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Medium.ttf?raw=1"
-    },
+  },
+}  

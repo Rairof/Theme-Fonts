@@ -1,4 +1,8 @@
-"fonts": {
+{
+    "spec": 1,
+    "name": "Almarai",
+    "previewText": "Whereas disregard and contempt for human rights have resulted",
+    "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Almarai/Almarai-Bold.ttf?raw=1",
   	"ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/Almarai/Almarai-Bold.ttf?raw=1",
   	"ggsans-BoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Almarai/Almarai-BoldItalic.ttf?raw=1",
@@ -17,4 +21,5 @@
   	"NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Almarai/Almarai-Regular.ttf?raw=1",
   	"NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Almarai/Almarai-Medium.ttf?raw=1",
   	"SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Almarai/Almarai-Medium.ttf?raw=1"
-    },
+    }
+}

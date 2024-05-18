@@ -16,7 +16,7 @@
 <img src="./assets/GoogleSans-4.png" width="300"/>
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/GoogleSans/GoogleSans-font-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/GoogleSans/GoogleSans-font-snippet.json)
 ## Font sourced from [here.](https://github.com/hprobotic/Google-Sans-Font/tree/master)
 <h2 align="left">2. Cabin</h2>
 <p align="left">
@@ -46,7 +46,7 @@
 <img src="./assets/Meloso-4.png" width="300"/>
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Meloso/Meloso-font-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Meloso/Meloso-font-snippet.json)
 ## Font sourced from [here.](https://www.ios-repo-updates.com/repository/alo-s-repo/package/works.alo.fonts.meloso80/)
 <h2 align="left">5. InstrumentSans</h2>
 <p align="left">
@@ -68,7 +68,7 @@
 <img src="./assets/SF-Pro-Display-4.png" width="300"/>
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/SF-Pro-Display/SF-Pro-Display-font-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/SF-Pro-Display/SF-Pro-Display-font-snippet.json)
 ## Font sourced from [here.](https://online-fonts.com/fonts/san-francisco-pro-display)
 <h2 align="left">7. Inter</h2>
 <p align="left">
@@ -118,7 +118,7 @@
 <img src="./assets/Almarai-4.png" width="300"/>
 </p>
 
-# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Almarai/Almarai-font-snippet)
+# [Font Snippet](https://github.com/Rairof/Theme-Fonts/blob/main/Almarai/Almarai-font-snippet.json)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Almarai?icon.set=Material+Symbols&category=Sans+Serif)
 <h2 align="left">12. JetBrains Mono</h2>
 <p align="left">
