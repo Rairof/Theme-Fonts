@@ -1,7 +1,7 @@
 {
     "spec": 1,
     "name": "GoogleSans",
-    "previewText": "Google Sans is a geometric sans-serif typeface designed by Google for use as a corporate branding face.",
+    "previewText": "Google Sans is a geometric sans-serif typeface designed by Google for use as a corporate branding face",
     "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/GoogleSans/GoogleSans-Bold.ttf?raw=1",
         "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/GoogleSans/GoogleSans-Bold.ttf?raw=1",
