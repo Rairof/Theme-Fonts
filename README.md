@@ -268,4 +268,4 @@
 
 ## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/BlowBrush/BlowBrush-font-snippet.json)
 ## Font sourced from [here.](https://www.dafont.com/blowbrush.font)
-# Implementation of said fonts are described in [here.](https://github.com/Rairof/Theme-Fonts/blob/main/assets/Implementation.md)
+# Implementation of said fonts are described in [here](https://github.com/Rairof/Theme-Fonts/blob/main/assets/Implementation.md) (OUTDATED NOW!)
