@@ -20,7 +20,7 @@
 </h2>
 
 ## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/GoogleSans/GoogleSans-font-snippet.json)
-## Font sourced from [here.](https://github.com/hprobotic/Google-Sans-Font/tree/master)
+## Font sourced from [here.](https://github.com/hprobotic/Google-Sans-Font)
 <h2 align="left">2. Cabin</h2>
 <h2><details>
 <p align="left">
