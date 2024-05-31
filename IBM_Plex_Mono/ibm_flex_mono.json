@@ -1,0 +1,20 @@
+{
+    "spec": 1,
+    "name": "Angelica",
+    "previewText": "I like woof!",
+    "main": {
+    	"IBMPlexMono-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-Bold.tff",
+    	"IBMPlexMono-BoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-BoldItalic.tff",
+    	"IBMPlexMono-ExtraLight": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-ExtraLight.tff",
+    	"IBMPlexMono-ExtraLightItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-ExtraLightItalic.tff",
+    	"IBMPlexMono-Italic": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-Italic.tff",
+    	"IBMPlexMono-LightItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-.LightItalic.tff",
+    	"IBMPlexMono-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-Medium.tff",
+    	"IBMPlexMono-MediumItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-MediumItalic.tff",
+    	"IBMPlexMono-Regular": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-Regular.tff",
+    	"IBMPlexMono-SemiBold": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-SemiBold.tff",
+    	"IBMPlexMono-SemiBoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-SemiBoldItalic.tff",
+    	"IBMPlexMono-Thin": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-Thin.tff",
+    	"IBMPlexMono-ThinItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/IBM_Plex_Mono/IBMPlexMono-ThinItalic.tff"
+    }
+}
