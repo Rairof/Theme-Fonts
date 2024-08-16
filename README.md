@@ -217,18 +217,18 @@
 
 ## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/JetBrainsMono/JetBrainsMono-font-snippet.json)
 ## Font sourced from [here.](https://fonts.google.com/specimen/JetBrains+Mono?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&query=Jetbrains+mono)
-<h2 align="left">17. Trakya</h2>
+<h2 align="left">17. OpenDyslexic</h2>
 <h2><details>
 <p align="left">
-<img src="./assets/Trakya-1.png" width="300"/>
-<img src="./assets/Trakya-2.png" width="300"/>
-<img src="./assets/Trakya-3.png" width="300"/>
-<img src="./assets/Trakya-4.png" width="300"/>
+<img src="./assets/OpenDyslexic-1.png" width="300"/>
+<img src="./assets/OpenDyslexic-2.png" width="300"/>
+<img src="./assets/OpenDyslexic-3.png" width="300"/>
+<img src="./assets/OpenDyslexic-4.png" width="300"/>
 </p>
 </details>
 </h2>
 
-## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/Trakya/Trakya-font-snippet.json)
+## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/OpenDyslexic/OpenDyslexic-font-snippet.json)
 ## Font sourced from [here.](https://www.dafontfree.io/trakya-sans-serif-font/)
 <h2 align="left">18. Fira Code</h2>
 <h2><details>
@@ -269,4 +269,17 @@
 
 ## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/Ubuntu-Mono/Ubuntu-Mono-font-snippet.json)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Ubuntu+Sans+Mono)
+<h2 align="left">21. OpenDyslexic</h2>
+<h2><details>
+<p align="left">
+<img src="./assets/OpenDyslexic-1.png" width="300"/>
+<img src="./assets/OpenDyslexic-2.png" width="300"/>
+<img src="./assets/OpenDyslexic-3.png" width="300"/>
+<img src="./assets/OpenDyslexic-4.png" width="300"/>
+</p>
+</details>
+</h2>
+
+## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/OpenDyslexic/OpenDyslexic-font-snippet.json)
+## Font sourced from [here.](https://github.com/antijingoist/opendyslexic)
 # Implementation of said fonts are described in [here](https://github.com/Rairof/Theme-Fonts/blob/main/assets/Implementation.md) (OUTDATED NOW!)
