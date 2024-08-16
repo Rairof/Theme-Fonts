@@ -256,43 +256,17 @@
 
 ## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/Source-Code-Pro/Source-Code-Pro-font-snippet.json)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Source+Code+Pro?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&classification=Monospace&query=Source+code+pro)
-<h2 align="left">20. Ubuntu Mono</h2>
+<h2 align="left">20. Ubuntu Sans Mono</h2>
 <h2><details>
 <p align="left">
-<img src="./assets/Ubuntu-Mono-1.png" width="300"/>
-<img src="./assets/Ubuntu-Mono-2.png" width="300"/>
-<img src="./assets/Ubuntu-Mono-3.png" width="300"/>
-<img src="./assets/Ubuntu-Mono-4.png" width="300"/>
+<img src="./assets/UbuntuSansMono-1.png" width="300"/>
+<img src="./assets/UbuntuSansMono-2.png" width="300"/>
+<img src="./assets/UbuntuSansMono-3.png" width="300"/>
+<img src="./assets/UbuntuSansMono-4.png" width="300"/>
 </p>
 </details>
 </h2>
 
 ## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/Ubuntu-Mono/Ubuntu-Mono-font-snippet.json)
-## Font sourced from [here.](https://fonts.google.com/specimen/Ubuntu+Mono?icon.set=Material+Symbols&category=Sans+Serif&subset=latin&noto.script=Latn&classification=Monospace&query=ubuntu+mono)
-<h2 align="left">21. Witcher Handwriting</h2>
-<h2><details>
-<p align="left">
-<img src="./assets/Witcher_Handwriting-1.png" width="300"/>
-<img src="./assets/Witcher_Handwriting-2.png" width="300"/>
-<img src="./assets/Witcher_Handwriting-3.png" width="300"/>
-<img src="./assets/Witcher_Handwriting-4.png" width="300"/>
-</p>
-</details>
-</h2>
-
-## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/Witcher-Handwriting/Witcher-Handwriting-font-snippet.json)
-## Font sourced from [here.](https://www.fontspace.com/witcher-handwriting-font-f50757)
-<h2 align="left">22. BlowBrush</h2>
-<h2><details>
-<p align="left">
-<img src="./assets/Blowbrush-1.png" width="300"/>
-<img src="./assets/Blowbrush-2.png" width="300"/>
-<img src="./assets/Blowbrush-3.png" width="300"/>
-<img src="./assets/Blowbrush-4.png" width="300"/>
-</p>
-</details>
-</h2>
-
-## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/BlowBrush/BlowBrush-font-snippet.json)
-## Font sourced from [here.](https://www.dafont.com/blowbrush.font)
+## Font sourced from [here.](https://fonts.google.com/specimen/Ubuntu+Sans+Mono)
 # Implementation of said fonts are described in [here](https://github.com/Rairof/Theme-Fonts/blob/main/assets/Implementation.md) (OUTDATED NOW!)
