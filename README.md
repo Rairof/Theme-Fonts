@@ -4,7 +4,7 @@
 </p>
 
 ## A shrimple Discord Font repository for themers who wants to use custom fonts in their themes.
-## All Fonts will be provided in here along with a Gallery section that will showcase each fonts in a neat & organised manner.
+## All Fonts will be provided in here along with a Gallery section that will showcase each fonts in a organised manner.
 >[!NOTE]
 >BlowBrush, Evolve Sans, Almarai, Witcher Handwriting & few other fonts doesn't seem to have a family tree like other fonts so I renamed the orginal regular font file into others to make them work, all theme makers are advised to just use the given theme files for all types of fonts in their themes accordingly, let me know if you find any family tree for these fonts.
 <h1 align="center">Gallery</h1>
