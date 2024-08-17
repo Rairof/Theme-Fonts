@@ -3,7 +3,7 @@
     <h1 align="center">Fonts for Discord</h1>
 </p>
 
-## A shrimple Discord Font repository for themers who wants to use custom fonts in their themes.
+## A basic Discord Font repository for users/themers who wants to use custom fonts by itself or in their themes.
 ## All Fonts will be provided in here along with a Gallery section that will showcase each fonts in a organised manner.
 <h1 align="center">Gallery</h1>
 <h2 align="left">1. Almarai</h2>
