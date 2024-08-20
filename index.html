@@ -24,10 +24,11 @@
 
 			#item-list li {
 				margin-bottom: 5px;
-			
-			background-color: var(--'#ffffff');
+				background-color: var(--body-bg);
+				border-color: var(--border-color);
 			}
 			#item-list a {  
+				color: var(--link-color);
 				text-decoration: none;            
 				transition: font-weight 0.1s cubic-bezier(.46,.03,.52,.96);
 			}
@@ -131,9 +132,13 @@
 				if (isDarkMode) {
 					body.style.setProperty('--body-bg', '#ffffff');
 					body.style.setProperty('--body-color', '#000000');
+					body.style.setProperty('--link-color', '#9fcdff');
+					body.style.setProperty('--border-color', 'rgba(255,255,255,.125)');
 				} else {
 					body.style.setProperty('--body-bg', '#1e2124');
 					body.style.setProperty('--body-color', '#ffffff');
+					body.style.setProperty('--link-color', '#007bff');
+					body.style.setProperty('--border-color', 'rgba(0,0,0,.125)');
 				}
 				isDarkMode = !isDarkMode;
 			});
