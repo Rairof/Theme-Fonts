@@ -13,6 +13,13 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
 
 		<style>
+			:root {
+				--body-bg: #1e2124;
+				--body-color: #ffffff;
+				--link-color: #9fcdff;
+				--border-color: rgba(255,255,255,.125);
+			}
+		
 			body {
 				background-color: var(--body-bg);
 				color: var(--body-color);
@@ -126,19 +133,19 @@
 			fetchItems(targetRepo, document.getElementById('item-list'));
 
 			const themeToggle = document.getElementById('theme-toggle');
-			let isDarkMode = false;
+			let isDarkMode = true;
 			themeToggle.addEventListener('click', () => {
 				const body = document.body;
 				if (isDarkMode) {
 					body.style.setProperty('--body-bg', '#ffffff');
 					body.style.setProperty('--body-color', '#000000');
-					body.style.setProperty('--link-color', '#9fcdff');
-					body.style.setProperty('--border-color', 'rgba(255,255,255,.125)');
+					body.style.setProperty('--link-color', '#007bff');
+					body.style.setProperty('--border-color', 'rgba(0,0,0,.125)');
 				} else {
 					body.style.setProperty('--body-bg', '#1e2124');
 					body.style.setProperty('--body-color', '#ffffff');
-					body.style.setProperty('--link-color', '#007bff');
-					body.style.setProperty('--border-color', 'rgba(0,0,0,.125)');
+					body.style.setProperty('--link-color', '#9fcdff');
+					body.style.setProperty('--border-color', 'rgba(255,255,255,.125)');
 				}
 				isDarkMode = !isDarkMode;
 			});
