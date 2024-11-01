@@ -278,7 +278,7 @@
 </details>
 </h2>
 
-## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/Trakya/Trakya-font-snippet.json)
+## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/refs/heads/main/Trakya/Trakya-Sans-font-snippet.json)
 ## Font sourced from [here.](https://www.dafontfree.io/trakya-sans-serif-font/)
 <h2 align="left">22. Ubuntu Sans Mono</h2>
 <h2><details>
@@ -291,6 +291,6 @@
 </details>
 </h2>
 
-## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/Ubuntu-Mono/Ubuntu-Mono-font-snippet.json)
+## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/refs/heads/main/UbuntuSansMono/UbuntuSansMono-font-snippet.json)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Ubuntu+Sans+Mono)
 # Implementation of said fonts are described in [here](https://github.com/Rairof/Theme-Fonts/blob/main/assets/Implementation.md) (OUTDATED NOW!)
