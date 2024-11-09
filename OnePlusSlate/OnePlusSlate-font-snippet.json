@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "OnePlusSlate",
+    "previewText": "OnePlus Slate™ font released bu OnePlus™ on Open Beta 8/17 for the OnePlus 3/3T",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-ExtraBold.ttf?raw=1",
+        "ggSlate-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-Bold.ttf?raw=1",
+        "ggSlate-BoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-BoldItalic.ttf?raw=1",
+        "ggSlate-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-ExtraBold.ttf?raw=1",
+        "ggSlate-ExtraBoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-ExtraBoldItalic.ttf?raw=1",
+        "ggSlate-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-Medium.ttf?raw=1",
+        "ggSlate-MediumItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-MediumItalic.ttf?raw=1",
+        "ggSlate-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-Normal.ttf?raw=1",
+        "ggSlate-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-NormalItalic.ttf?raw=1",
+        "ggSlate-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-SemiBold.ttf?raw=1",
+        "ggSlate-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-SemiBoldItalic.ttf?raw=1",
+        "NotoSlate-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-Bold.ttf?raw=1",
+        "NotoSlate-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-ExtraBold.ttf?raw=1",
+        "NotoSlate-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-Medium.ttf?raw=1",
+        "NotoSlate-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-Normal.ttf?raw=1",
+        "NotoSlate-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-NormalItalic.ttf?raw=1",
+        "NotoSlate-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-SemiBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSlate/OnePlusSlate-SemiBold.ttf?raw=1"
+    }
+}

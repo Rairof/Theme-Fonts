@@ -1,7 +1,7 @@
 {
     "spec": 1,
     "name": "OnePlusSans",
-    "previewText": "OnePlus Slate™ font released bu OnePlus™ on Open Beta 8/17 for the OnePlus 3/3T",
+    "previewText": "OnePlus Sans is a clean, modern sans-serif typeface designed to be highly legible on screens",
     "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-ExtraBold.ttf?raw=1",
         "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-Bold.ttf?raw=1",
@@ -12,14 +12,14 @@
         "ggsans-MediumItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-MediumItalic.ttf?raw=1",
         "ggsans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-Normal.ttf?raw=1",
         "ggsans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-NormalItalic.ttf?raw=1",
-        "ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-SemiBold.ttf?raw=1",
-        "ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-SemiBoldItalic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-Medium.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-MediumItalic.ttf?raw=1",
         "NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-Bold.ttf?raw=1",
         "NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-ExtraBold.ttf?raw=1",
         "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-Medium.ttf?raw=1",
         "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-Normal.ttf?raw=1",
         "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-NormalItalic.ttf?raw=1",
-        "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-SemiBold.ttf?raw=1",
-        "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-SemiBold.ttf?raw=1"
+        "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-Medium.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/OnePlusSans/OnePlusSans-Medium.ttf?raw=1"
     }
 }
