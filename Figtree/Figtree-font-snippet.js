@@ -7,7 +7,7 @@
         "ggsans-Bold": "https://github.com/iveurne/Theme-Fonts/raw/main/Figtree/Figtree-Bold.ttf?raw=1",
         "ggsans-BoldItalic": "https://github.com/iveurne/Theme-Fonts/raw/main/Figtree/Figtree-BoldItalic.ttf?raw=1",
         "ggsans-ExtraBold": "https://github.com/iveurne/Theme-Fonts/raw/main/Figtree/Figtree-ExtraBold.ttf?raw=1",
-        "ggsans-ExtraBoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Figtree/Figtree-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/iveurne/Theme-Fonts/raw/main/Figtree/Figtree-ExtraBoldItalic.ttf?raw=1",
         "ggsans-Medium": "https://github.com/iveurne/Theme-Fonts/raw/main/Figtree/Figtree-Medium.ttf?raw=1",
         "ggsans-MediumItalic": "https://github.com/iveurne/Theme-Fonts/raw/main/Figtree/Figtree-MediumItalic.ttf?raw=1",
         "ggsans-Normal": "https://github.com/iveurne/Theme-Fonts/raw/main/Figtree/Figtree-Regular.ttf?raw=1",
