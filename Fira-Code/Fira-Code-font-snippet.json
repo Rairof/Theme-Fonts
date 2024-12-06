@@ -1,6 +1,6 @@
 {
     "spec": 1,
-    "name": "Fira COde",
+    "name": "Fira Code",
     "previewText": "Fira Code is an extension of the Fira Mono font containing a set of ligatures for common programming multi-character combinations",
     "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Fira-Code/Fira-Code-ExtraBold.ttf?raw=1",
