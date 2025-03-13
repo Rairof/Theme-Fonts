@@ -12,14 +12,15 @@
       "ggsans-MediumItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-MediumItalic.otf?raw=1",
       "ggsans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Normal.otf?raw=1",
       "ggsans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-NormalItalic.otf?raw=1",
-      "ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Medium.otf?raw=1",
-      "ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-MediumItalic.otf?raw=1",
+      "ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Semibold.otf?raw=1",
+      "ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-SemiboldItalic.otf?raw=1",
       "NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Bold.otf?raw=1",
       "NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-ExtraBold.otf?raw=1",
       "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Medium.otf?raw=1",
       "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Normal.otf?raw=1",
       "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-NormalItalic.otf?raw=1",
-      "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Medium.otf?raw=1",
-      "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Medium.otf?raw=1"
+      "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-Semibold.otf?raw=1",
+      "ggmono-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Meloso/Meloso-SemiboldItalic.otf?raw=1"
+      "ggsans-Light": 
   }
 }
