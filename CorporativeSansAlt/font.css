@@ -1,6 +1,6 @@
 @font-face {
     font-family: CorporativeSansAltRegular;
-    src: url(https://github.com/Rairof/Theme-Fonts/raw/refs/heads/vencord/CorporativeSansAlt/CorporativeSansAltRegular.woff);
+    src: url(https://raw.githubusercontent.com/Rairof/Theme-Fonts/refs/heads/vencord/CorporativeSansAlt/CorporativeSansAltRegular.woff);
 }
 
 :root {
