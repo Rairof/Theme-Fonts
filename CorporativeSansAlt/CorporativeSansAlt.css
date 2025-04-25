@@ -1,10 +1,10 @@
 @font-face {
     font-family: CorporativeSansAltRegular;
-    src: url(https://github.com/Rairof/Theme-Fonts/blob/vencord/CorporativeSansAlt/CorporativeSansAltRegular.woff?raw=1);
+    src: url(https://github.com/Rairof/Theme-Fonts/raw/refs/heads/vencord/CorporativeSansAlt/CorporativeSansAltRegular.woff);
 }
 
 :root {
     --font-primary: "CorporativeSansAltRegular";
-    --font-display: "CorporativeSansAltregular";
+    --font-display: "CorporativeSansAltRegular";
     --font-headline: "CorporativeSansAltRegular";
 }
