@@ -1,154 +1,165 @@
 <!-- 
   Angel/Azrae was here :3
+  So was Moodle :3
 -->
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Discord Fonts</title>
-		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-		
-		<link rel="icon" href="https://github.com/Rairof/Discord-Theme/blob/main/Icon.png">
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Discord Fonts</title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+	
+	<link rel="icon" href="https://github.com/Rairof/Discord-Theme/blob/main/Icon.png">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
 
-		<style>
-			:root {
-				--body-bg: #1e2124;
-				--body-color: #ffffff;
-				--link-color: #9fcdff;
-				--border-color: rgba(255,255,255,.125);
-			}
-		
-			body {
-				background-color: var(--body-bg);
-				color: var(--body-color);
-			}
+	<style>
+		:root {
+			--bg-primary: #0f0e11;
+			--bg-secondary: #080608;
+			--txt: #FBFBFB;
+			--accent: #c2789b;
+			--link-color: #ffbaf2;
+			--border-color: #4F3B47;
+		}
+	
+		body {
+			background-image: url(https://raw.githubusercontent.com/Rairof/Discord-Theme/main/Wallpapers/RosieDarkBG.png);
+			size: 150%;
+		}
 
-			#item-list {
-				padding: 0;
-			}
+		.font-group {
+			padding: 10px;
+			background-color: transparent;
+			border: 1px solid var(--border-color);
+			border-radius: 20px;
+			margin-bottom: 10px;
+		}
 
-			#item-list li {
-				margin-bottom: 5px;
-				background-color: var(--body-bg);
-				border-color: var(--border-color);
-			}
-			#item-list a {  
-				color: var(--link-color);
-				text-decoration: none;            
-				transition: font-weight 0.1s cubic-bezier(.46,.03,.52,.96);
-			}
+		.title {
+			color: var(--txt);
+			text-align: center;
+			padding-top: 15px;
+		}
 
-			#item-list a:hover {
-				font-weight: bold;
-			}
+		.font-title {
+			text-align: center;
+			padding-bottom: 10px;
+		}
 
-			.container {
-				margin-top: 50px;
-			}
+		.container {
+			margin-top: 50px;
+			color: var(--txt);
+		}
 
-			.btn {
-				margin-bottom: 20px;
-			}
-		</style>
-	</head>
-	<body>
-		<div class="container">
-			<div class="row">                
-	            <div class="col text-center">
-	                <h1>List of Available Fonts <a
-	                	style="color: inherit; text-decoration: none;"
-	                	href="https://github.com/Rairof/Theme-Fonts/" 
-	                	target="_blank"
-	                	>
-	                		<i class="bi bi-github"></i>
-	                	</a>
-	                </h1>
-	            </div>
-	        </div>
-			<button id="theme-toggle" class="btn btn-primary">Toggle Theme</button>
-			<ul id="item-list" class="list-group"></ul>
+		.preview-container {
+			display: flex;
+			overflow-x: auto;
+			width: 360px;
+		}
+
+		.copy-snippet-url {
+			border-radius: 25px;
+			background-color: var(--accent);
+			color: var(--txt);
+			border: none;
+			width: 100%;
+			height: 35px;
+		}
+
+		.summary-text {
+			text-align: center;
+			padding-top: 5px;
+			border-radius: 25px;
+			background-color: #2b232f;
+			color: var(--txt);
+			border: 1.5px solid #39343F;
+			width: 100%;
+			height: 35px;
+			margin-top: 10px;
+		}
+	</style>
+</head>
+<body>
+	<div class="title">                
+		<h2>List of Available Fonts <a
+			style="color: inherit; text-decoration: none;"
+			href="https://github.com/Rairof/Theme-Fonts/" 
+			target="_blank"
+			>
+				<i class="bi bi-github"></i>
+			</a>
+		</h2>
+	</div>
+	<div class="container">
+		<div id="font-list">
+
 		</div>
+	</div>
+</body>
+<script>
+// PS: I suck at JS
+// IDK if im doing this in a good way and online docs are hard ~ Moodle
 
-		
-		<script>
-			// Predefined array of items to exclude from the list
-			const excludedItems = ['readme.md', "index.html", "assets", ".gitignore"];
-			const targetRepo = 'https://api.github.com/repos/Rairof/Theme-Fonts/contents';
+	const user = 'rairof';
+	const targetRepo = `https://api.github.com/repos/${user}/Theme-Fonts/contents`;
 
-			function fetchItems(url, parentElement) {
-				fetch(url)
-					.then(response => response.json())
-					.then(data => {
-						data.forEach(item => {
-							if (!excludedItems.includes(item?.name?.toLowerCase?.())) {
-								const listItem = document.createElement('li');
-								listItem.classList.add('list-group-item');
-								
-								const link = document.createElement('a');
-								const downloadLink = document.createElement('a');
-								const viewLink = document.createElement('a');
-
-								if (item.type === 'dir') {
-									const subListName = `sub_${item.name.replace(/\s+/g, '-')}`;
-
-									link.href = '#';
-									link.textContent = item.name;
-									link.onclick = function() {
-										const parent = document.getElementById(subListName);
-										if(parent) {
-											parent.replaceChildren()
-											parent.remove();
-										}
-										else {
-											const newSublist = document.createElement('ul');
-											newSublist.classList.add('list-group');
-											newSublist.id = subListName;
-											listItem.appendChild(newSublist);
-											fetchItems(item.url, newSublist);
-										}
-									};
-									listItem.appendChild(link);
-								} 
-								else {
-									downloadLink.textContent = `Download ${item.name}`;
-									downloadLink.href = item.download_url;
-									downloadLink.target = "_blank";
-									listItem.appendChild(downloadLink);
-
-									viewLink.textContent = ` | View ${item.name}`;
-									viewLink.href = item.html_url;
-									viewLink.target = "_blank";
-									listItem.appendChild(viewLink);
-								}
-								parentElement.appendChild(listItem);
-							}
-						});
-					})
-					.catch(error => console.error('Error fetching data:', error));
+	fetchItems()
+	async function fetchItems() {
+		try {
+			const response = await fetch(targetRepo)
+			if (!response.ok) {
+				throw new Error ("Error fetching data")
 			}
+			const data = await response.json()
+			const folders = data.filter(f => f.type === "dir").filter(f => f.name !== "assets")
+			fetchFolders(folders)
+		}
+		catch(error) {
+			console.error(error)
+		}
+	}
 
-			// Initial fetch
-			fetchItems(targetRepo, document.getElementById('item-list'));
+	function fetchFolders(folders) {
+		const fontContainer = document.getElementById("font-list")
+		fontContainer.innerHTML = '';
+		folders.forEach(async folder => {
+			const snippetUrl = `https://raw.githubusercontent.com/${user}/Theme-Fonts/main/${folder.name}/${folder.name}-font-snippet.json`;
+			
+			const fontEl = document.createElement("div")
+			fontEl.classList.add("font-group");
+			fontEl.innerHTML = `
+				<h4 class="font-title">${folder.name}</h4>
+				<button class="copy-snippet-url">Copy Link</button>
+			`;
+			fontContainer.appendChild(fontEl)
 
-			const themeToggle = document.getElementById('theme-toggle');
-			let isDarkMode = true;
-			themeToggle.addEventListener('click', () => {
-				const body = document.body;
-				if (isDarkMode) {
-					body.style.setProperty('--body-bg', '#ffffff');
-					body.style.setProperty('--body-color', '#000000');
-					body.style.setProperty('--link-color', '#007bff');
-					body.style.setProperty('--border-color', 'rgba(0,0,0,.125)');
-				} else {
-					body.style.setProperty('--body-bg', '#1e2124');
-					body.style.setProperty('--body-color', '#ffffff');
-					body.style.setProperty('--link-color', '#9fcdff');
-					body.style.setProperty('--border-color', 'rgba(255,255,255,.125)');
-				}
-				isDarkMode = !isDarkMode;
+			const buttonEl = fontEl.querySelector(".copy-snippet-url")
+			buttonEl.addEventListener("click", () => {
+				navigator.clipboard.writeText(snippetUrl);
 			});
-		</script>
-	</body>
+
+			const previewContainer = document.createElement("div");
+			previewContainer.classList.add("preview-container");
+			fontEl.appendChild(previewContainer);
+
+			const detailsEl = document.createElement("details");
+			const summaryEl = document.createElement("summary");
+			summaryEl.classList.add("summary-text")
+			summaryEl.textContent = "Preview";
+
+			detailsEl.appendChild(summaryEl);
+			detailsEl.appendChild(previewContainer);
+			fontEl.appendChild(detailsEl);
+
+			for (let i = 1; i <= 4; i++) {
+				const imgEl = document.createElement("img");
+				imgEl.src = `https://raw.githubusercontent.com/${user}/Theme-Fonts/main/${folder.name}/previews/${folder.name}-${i}.png`;
+				imgEl.style.width = "246.666666667px";
+				imgEl.style.height = "466.666666667px";
+				previewContainer.appendChild(imgEl);
+			}
+		});
+	}
+</script>
 </html>
