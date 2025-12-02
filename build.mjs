@@ -1,6 +1,16 @@
-import { readFile, writeFile, readdir } from "fs/promises";
+import {
+	readFile,
+	writeFile,
+	readdir,
+	mkdir,
+	cp,
+	copyFile,
+	rm,
+} from "fs/promises";
 
 const manifest = [];
+
+await rm("./dist", { recursive: true, force: true });
 
 for (let font of await readdir("./")) {
 	if (font.startsWith(".") || font == "assets") continue;
@@ -19,7 +29,11 @@ for (let font of await readdir("./")) {
 			manifest: `${font}/${font}-font-snippet.json`,
 			previews: previews,
 		});
+
+		await mkdir(`./dist/${font}/previews`, { recursive: true });
+		await cp(`${font}/`, `./dist/${font}`, { recursive: true });
 	} catch (e) {}
 }
 
-await writeFile("manifest.json", JSON.stringify(manifest));
+await copyFile("index.html", "dist/index.html");
+await writeFile("dist/manifest.json", JSON.stringify(manifest));
