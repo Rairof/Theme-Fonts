@@ -134,13 +134,12 @@
 		// PS: I suck at JS
 		// IDK if im doing this in a good way and online docs are hard ~ Moodle
 
-		const user = "rairof";
-		const targetRepo = `/manifest.json`;
+		const manifestUrl = `${window.location.href}manifest.json`;
 
 		fetchItems();
 		async function fetchItems() {
 			try {
-				const response = await fetch(targetRepo);
+				const response = await fetch(manifestUrl);
 				if (!response.ok) {
 					throw new Error("Error fetching data");
 				}
