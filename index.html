@@ -1,0 +1,193 @@
+<!--
+  Angel/Azrae was here :3
+  So was Moodle :3
+-->
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Discord Fonts</title>
+		<link
+			href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+			rel="stylesheet"
+		/>
+
+		<link
+			rel="icon"
+			href="https://github.com/Rairof/Discord-Theme/blob/main/Icon.png"
+		/>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"
+		/>
+
+		<style>
+			:root {
+				--bg-primary: #0f0e11;
+				--bg-secondary: #080608;
+				--txt: #fbfbfb;
+				--accent: #c2789b;
+				--link-color: #ffbaf2;
+				--border-color: #4f3b47;
+			}
+
+			body {
+				background-image: url(https://raw.githubusercontent.com/Rairof/Discord-Theme/main/Wallpapers/RosieDarkBG.png);
+				size: 150%;
+			}
+
+			.font-group {
+				padding: 10px;
+				background-color: transparent;
+				border: 1px solid var(--border-color);
+				border-radius: 20px;
+				margin-bottom: 10px;
+			}
+
+			.title {
+				color: var(--txt);
+				text-align: center;
+				padding-top: 15px;
+			}
+
+			.font-title {
+				text-align: center;
+				padding-bottom: 10px;
+			}
+
+			.container {
+				margin-top: 50px;
+				color: var(--txt);
+			}
+
+			.preview-container {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				grid-column-gap: 5px;
+				grid-row-gap: 25px;
+			}
+
+			.img-wrapper {
+				max-width: 75%;
+				width: 100%;
+			}
+
+			.copy-snippet-url {
+				border-radius: 25px;
+				background-color: var(--accent);
+				color: var(--txt);
+				border: none;
+				width: 100%;
+				height: 35px;
+			}
+
+			.summary-text {
+				text-align: center;
+				padding-top: 5px;
+				border-radius: 25px;
+				background-color: #2b232f;
+				color: var(--txt);
+				border: 1.5px solid #39343f;
+				width: 100%;
+				height: 35px;
+				margin-top: 10px;
+			}
+
+			@media screen and (max-width: 800px) {
+				.preview-container {
+					grid-template-columns: repeat(1, 1fr);
+				}
+				.img-wrapper {
+					flex: 50%;
+					max-width: 50%;
+				}
+			}
+
+			/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+			@media screen and (max-width: 600px) {
+				.img-wrapper {
+					flex: 100%;
+					max-width: 100%;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<div class="title">
+			<h2>
+				List of Available Fonts
+				<a
+					style="color: inherit; text-decoration: none"
+					href="https://github.com/Rairof/Theme-Fonts/"
+					target="_blank"
+				>
+					<i class="bi bi-github"></i>
+				</a>
+			</h2>
+		</div>
+		<div class="container">
+			<div id="font-list"></div>
+		</div>
+	</body>
+	<script>
+		// PS: I suck at JS
+		// IDK if im doing this in a good way and online docs are hard ~ Moodle
+
+		const user = "rairof";
+		const targetRepo = `/manifest.json`;
+
+		fetchItems();
+		async function fetchItems() {
+			try {
+				const response = await fetch(targetRepo);
+				if (!response.ok) {
+					throw new Error("Error fetching data");
+				}
+				const data = await response.json();
+				const fontContainer = document.getElementById("font-list");
+				fontContainer.innerHTML = "";
+				data.forEach(async (item) => {
+					const snippetUrl = `${window.location.href}${item.manifest}`;
+					console.log(snippetUrl);
+					const fontEl = document.createElement("div");
+					fontEl.classList.add("font-group");
+					fontEl.innerHTML = `
+					<h4 class="font-title">${item.name}</h4>
+					<button class="copy-snippet-url">Copy Link</button>
+					`;
+					fontContainer.appendChild(fontEl);
+
+					const buttonEl = fontEl.querySelector(".copy-snippet-url");
+					buttonEl.addEventListener("click", () => {
+						navigator.clipboard.writeText(snippetUrl);
+					});
+
+					if (item?.previews?.length > 0) {
+						const previewContainer = document.createElement("div");
+						previewContainer.classList.add("preview-container");
+						fontEl.appendChild(previewContainer);
+
+						const detailsEl = document.createElement("details");
+						const summaryEl = document.createElement("summary");
+						summaryEl.classList.add("summary-text");
+						summaryEl.textContent = "Preview";
+
+						detailsEl.appendChild(summaryEl);
+						detailsEl.appendChild(previewContainer);
+						fontEl.appendChild(detailsEl);
+
+						for (let i = 0; i < item.previews.length; i++) {
+							const imgEl = document.createElement("img");
+							imgEl.classList.add("img-wrapper");
+							imgEl.src = `${window.location.href}${item.previews[i]}`;
+							previewContainer.appendChild(imgEl);
+						}
+					}
+				});
+			} catch (error) {
+				console.error(error);
+			}
+		}
+	</script>
+</html>

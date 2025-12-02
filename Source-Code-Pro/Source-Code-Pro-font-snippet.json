@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Source Code Pro",
+    "previewText": "Source Code Pro was designed as a companion to Source Sans to create a monospaced version for coding applications",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-ExtraBold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-Normal.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-NormalItalic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-Semibold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-SemiboldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-Normal.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-NormalItalic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-Semibold.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Source-Code-Pro/Source-Code-Pro-Normal.ttf?raw=1"
+    }
+}

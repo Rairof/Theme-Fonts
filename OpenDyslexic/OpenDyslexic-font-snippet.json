@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "OpenDyslexic",
+    "previewText": "OpenDyslexic is a typeface designed against some common symptoms of dyslexia. If you like the way you are able to read this page, and others.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-ExtraBold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-Normal.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-NormalItalic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-Semibold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-SemiboldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-Normal.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-NormalItalic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-Semibold.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/OpenDyslexic/OpenDyslexic-Normal.ttf?raw=1"
+    }
+}

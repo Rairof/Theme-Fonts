@@ -1,0 +1,20 @@
+{
+  "name": "theme-fonts",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r     <img src=\"./assets/Icon.png\" width=\"100\" />\r     <h1 align=\"center\">Fonts for Discord</h1>\r </p>",
+  "homepage": "https://github.com/Rairof/Theme-Fonts#readme",
+  "bugs": {
+    "url": "https://github.com/Rairof/Theme-Fonts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rairof/Theme-Fonts.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
